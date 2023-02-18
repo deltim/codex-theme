@@ -1,0 +1,21 @@
+{
+  "name": "codex-theme",
+  "displayName": "Codex Theme",
+  "description": "Codex is a dark theme to help users to code more easily !",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codex",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codex-color-theme.json"
+      }
+    ]
+  }
+}

@@ -3,7 +3,7 @@
 ## Description & Infos
 **Codex** is a **dark theme**, it been created to **help the developpment** with wonderfull colors.
 
-[![](https://img.shields.io/badge/Visual_Studio_Code-Dark_Theme-blue?style=for-the-badge&logo=&link=https://github.io/deltim/codex-theme)]() [![github](https://img.shields.io/badge/View_the_github_repository-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deltim/codex-theme) [![marketplace](https://img.shields.io/badge/View_the_market_place_product-gray?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+[![](https://img.shields.io/badge/Visual_Studio_Code-Dark_Theme-blue?style=for-the-badge&logo=&link=https://github.io/deltim/codex-theme)]() [![github](https://img.shields.io/badge/View_the_github_repository-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deltim/codex-theme) [![marketplace](https://img.shields.io/badge/View_the_market_place_product-gray?style=for-the-badge&logo=visualstudiocode&logoColor=white)]() [![website](https://img.shields.io/badge/Deletrez_Timothy-Website-red?style=for-the-badge&logo=&logoColor=white)]()
 
 
 ## Preview
